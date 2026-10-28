@@ -8,7 +8,7 @@
   "server": {
     "ip": "TrillerSMP.aternos.me",
     "port": 17356,
-    "version": "1.21.11"
+    "version": "1.21.1"
   },
   "position": {
     "enabled": true,
